@@ -94,7 +94,8 @@ body#about #nav a.about {
   border-right: 10px solid #f2f2f2;
   float: left;
 }
-#gallery img {
+#gallery a img {
+  cursor: url(../images/arrow.gif), pointer;
 }
 #gallery .gallery-nav {
   margin-top: 10px;
