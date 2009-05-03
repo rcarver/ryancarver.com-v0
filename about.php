@@ -4,7 +4,7 @@
 <!html>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <title>About : Ryan Carver : Photographer</title>
+  <title>Ryan Carver Photography</title>
   <link type="text/css" rel="stylesheet" href="stylesheets/main.css">
 </head>
 <body>
