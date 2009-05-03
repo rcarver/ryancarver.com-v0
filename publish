@@ -1,0 +1,2 @@
+git push origin master
+ssh ryancarver.com "cd ryancarver.com && git pull origin master"
