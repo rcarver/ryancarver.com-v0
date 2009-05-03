@@ -26,7 +26,6 @@
           <ul id="contact-info">
             <li>415 <span class="blur">-</span> 290 <span class="blur">-</span> 8769</li>
             <li>ryan <span class="blur">at</span> ryancarver <span class="blur">dot</span> com</li>
-            <li><a href="http://ryancarver.com/blog/">blog</a></li>
             <li><a href="http://flickr.com/photos/fss/">flickr</a></li>
           </ul>
         </div>
