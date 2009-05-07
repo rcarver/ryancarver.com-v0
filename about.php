@@ -21,6 +21,9 @@
             isolated, thus creating a reflection of myself rather
             than a representation of the time and place.
           </p>
+          <p>
+            Please contact me for prints, licensing or commissioned work.
+          </p>
         </div>
         <div id="col-b">
           <ul id="contact-info">
